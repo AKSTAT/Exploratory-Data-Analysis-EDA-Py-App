@@ -13,10 +13,10 @@ This project is an interactive **Exploratory Data Analysis (EDA) dashboard** bui
 - 📝 Dynamic conclusion to interpret your data
 - This EDA dashboard provides a strong foundation to guide **feature engineering, modeling decisions, or business interpretations**.
 
-### website link to understand it more better. - https://www.akstats.in/2025/07/EDA-APP-in-py.html
+### website link to understand it better. - https://www.akstats.in/2025/07/EDA-APP-in-py.html
 
 ## Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/eda-streamlit-dashboard.git
+   git clone https://github.com/AKSTAT/Exploratory-Data-Analysis-EDA-Py-App.git
    cd eda-streamlit-dashboard
    ```
